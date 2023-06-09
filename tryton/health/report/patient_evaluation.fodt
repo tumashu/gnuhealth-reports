@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2023-06-05T22:10:09.100073222</meta:creation-date><meta:editing-duration>P0D</meta:editing-duration><meta:editing-cycles>1</meta:editing-cycles><meta:generator>LibreOffice/7.0.4.2$Linux_X86_64 LibreOffice_project/00$Build-2</meta:generator><meta:document-statistic meta:table-count="14" meta:image-count="0" meta:object-count="0" meta:page-count="6" meta:paragraph-count="153" meta:word-count="284" meta:character-count="3579" meta:non-whitespace-character-count="3440"/></office:meta>
+ <office:meta><meta:creation-date>2023-06-05T22:10:09.100073222</meta:creation-date><meta:editing-duration>P0D</meta:editing-duration><meta:editing-cycles>1</meta:editing-cycles><meta:generator>LibreOffice/7.0.4.2$Linux_X86_64 LibreOffice_project/00$Build-2</meta:generator><meta:document-statistic meta:table-count="14" meta:image-count="0" meta:object-count="0" meta:page-count="6" meta:paragraph-count="153" meta:word-count="284" meta:character-count="3583" meta:non-whitespace-character-count="3444"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">99755</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">100965</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">39901</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">22544</config:config-item>
@@ -16,9 +16,9 @@
      <config:config-item config:name="ViewLeft" config:type="long">11619</config:config-item>
      <config:config-item config:name="ViewTop" config:type="long">106860</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">99755</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">100965</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">39899</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">122297</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">123508</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -85,7 +85,7 @@
    <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">3634499</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">3743161</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
@@ -152,7 +152,7 @@
   <draw:gradient draw:name="Spotted_20_Gray" draw:display-name="Spotted Gray" draw:style="radial" draw:cx="50%" draw:cy="50%" draw:start-color="#b2b2b2" draw:end-color="#eeeeee" draw:start-intensity="100%" draw:end-intensity="100%" draw:border="0%"/>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Source Han Sans CN Regular" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -1041,14 +1041,41 @@
   <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
  </office:styles>
  <office:automatic-styles>
+  <style:style style:name="Table5" style:family="table">
+   <style:table-properties style:width="17.013cm" fo:margin-left="0cm" table:align="left"/>
+  </style:style>
+  <style:style style:name="Table5.A" style:family="table-column">
+   <style:table-column-properties style:column-width="3.307cm"/>
+  </style:style>
+  <style:style style:name="Table5.B" style:family="table-column">
+   <style:table-column-properties style:column-width="5.193cm"/>
+  </style:style>
+  <style:style style:name="Table5.C" style:family="table-column">
+   <style:table-column-properties style:column-width="2.612cm"/>
+  </style:style>
+  <style:style style:name="Table5.D" style:family="table-column">
+   <style:table-column-properties style:column-width="5.9cm"/>
+  </style:style>
+  <style:style style:name="Table5.A1" style:family="table-cell">
+   <style:table-cell-properties style:vertical-align="middle" fo:padding="0cm" fo:border-left="0.5pt solid #000000" fo:border-right="none" fo:border-top="0.5pt solid #000000" fo:border-bottom="0.5pt solid #000000" style:writing-mode="page"/>
+  </style:style>
+  <style:style style:name="Table5.D1" style:family="table-cell">
+   <style:table-cell-properties style:vertical-align="middle" fo:padding="0cm" fo:border="0.5pt solid #000000" style:writing-mode="page"/>
+  </style:style>
+  <style:style style:name="Table5.A2" style:family="table-cell">
+   <style:table-cell-properties style:vertical-align="middle" fo:padding="0cm" fo:border-left="0.5pt solid #000000" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.5pt solid #000000" style:writing-mode="page"/>
+  </style:style>
+  <style:style style:name="Table5.D2" style:family="table-cell">
+   <style:table-cell-properties style:vertical-align="middle" fo:padding="0cm" fo:border-left="0.5pt solid #000000" fo:border-right="0.5pt solid #000000" fo:border-top="none" fo:border-bottom="0.5pt solid #000000" style:writing-mode="page"/>
+  </style:style>
   <style:style style:name="Table1" style:family="table">
    <style:table-properties style:width="17cm" table:align="margins"/>
   </style:style>
   <style:style style:name="Table1.A" style:family="table-column">
-   <style:table-column-properties style:column-width="8.421cm" style:rel-column-width="4733*"/>
+   <style:table-column-properties style:column-width="8.421cm" style:rel-column-width="32462*"/>
   </style:style>
   <style:style style:name="Table1.B" style:family="table-column">
-   <style:table-column-properties style:column-width="8.58cm" style:rel-column-width="4822*"/>
+   <style:table-column-properties style:column-width="8.58cm" style:rel-column-width="33073*"/>
   </style:style>
   <style:style style:name="Table1.A1" style:family="table-cell">
    <style:table-cell-properties style:vertical-align="middle" fo:padding="0cm" fo:border="none"/>
@@ -1058,6 +1085,18 @@
   </style:style>
   <style:style style:name="Table1.B2" style:family="table-cell">
    <style:table-cell-properties style:vertical-align="middle" fo:padding="0.049cm" fo:border="0.5pt solid #000000"/>
+  </style:style>
+  <style:style style:name="Table10" style:family="table">
+   <style:table-properties style:width="17cm" table:align="margins"/>
+  </style:style>
+  <style:style style:name="Table10.A" style:family="table-column">
+   <style:table-column-properties style:column-width="17cm" style:rel-column-width="65535*"/>
+  </style:style>
+  <style:style style:name="Table10.A1" style:family="table-cell">
+   <style:table-cell-properties style:vertical-align="middle" fo:padding="0cm" fo:border="none" style:writing-mode="page"/>
+  </style:style>
+  <style:style style:name="Table10.A2" style:family="table-cell">
+   <style:table-cell-properties style:vertical-align="middle" fo:padding="0.049cm" fo:border="0.5pt solid #000000" style:writing-mode="page"/>
   </style:style>
   <style:style style:name="Table9" style:family="table">
    <style:table-properties style:width="17cm" table:align="margins"/>
@@ -1177,6 +1216,21 @@
   <style:style style:name="Table3.B5" style:family="table-cell">
    <style:table-cell-properties style:vertical-align="middle" fo:padding="0cm" fo:border-left="0.5pt solid #000000" fo:border-right="0.5pt solid #000000" fo:border-top="none" fo:border-bottom="0.5pt solid #000000"/>
   </style:style>
+  <style:style style:name="Table11" style:family="table">
+   <style:table-properties style:width="17cm" table:align="margins"/>
+  </style:style>
+  <style:style style:name="Table11.A" style:family="table-column">
+   <style:table-column-properties style:column-width="17cm" style:rel-column-width="65535*"/>
+  </style:style>
+  <style:style style:name="Table11.A1" style:family="table-cell">
+   <style:table-cell-properties style:vertical-align="middle" fo:padding="0cm" fo:border="none" style:writing-mode="page"/>
+  </style:style>
+  <style:style style:name="Table11.A3" style:family="table-cell">
+   <style:table-cell-properties style:vertical-align="middle" fo:padding="0cm" fo:border="0.5pt solid #000000" style:writing-mode="page"/>
+  </style:style>
+  <style:style style:name="Table11.A4" style:family="table-cell">
+   <style:table-cell-properties style:vertical-align="middle" fo:padding="0cm" fo:border-left="0.5pt solid #000000" fo:border-right="0.5pt solid #000000" fo:border-top="none" fo:border-bottom="0.5pt solid #000000" style:writing-mode="page"/>
+  </style:style>
   <style:style style:name="Table4" style:family="table">
    <style:table-properties style:width="17.013cm" fo:margin-left="0cm" table:align="left"/>
   </style:style>
@@ -1219,33 +1273,6 @@
   <style:style style:name="Tabella20.A2" style:family="table-cell">
    <style:table-cell-properties style:vertical-align="middle" fo:padding="0cm" fo:border="0.5pt solid #000000"/>
   </style:style>
-  <style:style style:name="Table10" style:family="table">
-   <style:table-properties style:width="17cm" table:align="margins"/>
-  </style:style>
-  <style:style style:name="Table10.A" style:family="table-column">
-   <style:table-column-properties style:column-width="17cm" style:rel-column-width="65535*"/>
-  </style:style>
-  <style:style style:name="Table10.A1" style:family="table-cell">
-   <style:table-cell-properties style:vertical-align="middle" fo:padding="0cm" fo:border="none" style:writing-mode="page"/>
-  </style:style>
-  <style:style style:name="Table10.A2" style:family="table-cell">
-   <style:table-cell-properties style:vertical-align="middle" fo:padding="0.049cm" fo:border="0.5pt solid #000000" style:writing-mode="page"/>
-  </style:style>
-  <style:style style:name="Table11" style:family="table">
-   <style:table-properties style:width="17cm" table:align="margins"/>
-  </style:style>
-  <style:style style:name="Table11.A" style:family="table-column">
-   <style:table-column-properties style:column-width="17cm" style:rel-column-width="65535*"/>
-  </style:style>
-  <style:style style:name="Table11.A1" style:family="table-cell">
-   <style:table-cell-properties style:vertical-align="middle" fo:padding="0cm" fo:border="none" style:writing-mode="page"/>
-  </style:style>
-  <style:style style:name="Table11.A3" style:family="table-cell">
-   <style:table-cell-properties style:vertical-align="middle" fo:padding="0cm" fo:border="0.5pt solid #000000" style:writing-mode="page"/>
-  </style:style>
-  <style:style style:name="Table11.A4" style:family="table-cell">
-   <style:table-cell-properties style:vertical-align="middle" fo:padding="0cm" fo:border-left="0.5pt solid #000000" fo:border-right="0.5pt solid #000000" fo:border-top="none" fo:border-bottom="0.5pt solid #000000" style:writing-mode="page"/>
-  </style:style>
   <style:style style:name="Table12" style:family="table">
    <style:table-properties style:width="17cm" table:align="margins"/>
   </style:style>
@@ -1271,33 +1298,6 @@
    <style:table-cell-properties style:vertical-align="middle" fo:padding="0cm" fo:border="0.5pt solid #000000" style:writing-mode="page"/>
   </style:style>
   <style:style style:name="Table13.A5" style:family="table-cell">
-   <style:table-cell-properties style:vertical-align="middle" fo:padding="0cm" fo:border-left="0.5pt solid #000000" fo:border-right="0.5pt solid #000000" fo:border-top="none" fo:border-bottom="0.5pt solid #000000" style:writing-mode="page"/>
-  </style:style>
-  <style:style style:name="Table5" style:family="table">
-   <style:table-properties style:width="17.013cm" fo:margin-left="0cm" table:align="left"/>
-  </style:style>
-  <style:style style:name="Table5.A" style:family="table-column">
-   <style:table-column-properties style:column-width="3.307cm"/>
-  </style:style>
-  <style:style style:name="Table5.B" style:family="table-column">
-   <style:table-column-properties style:column-width="5.193cm"/>
-  </style:style>
-  <style:style style:name="Table5.C" style:family="table-column">
-   <style:table-column-properties style:column-width="2.612cm"/>
-  </style:style>
-  <style:style style:name="Table5.D" style:family="table-column">
-   <style:table-column-properties style:column-width="5.9cm"/>
-  </style:style>
-  <style:style style:name="Table5.A1" style:family="table-cell">
-   <style:table-cell-properties style:vertical-align="middle" fo:padding="0cm" fo:border-left="0.5pt solid #000000" fo:border-right="none" fo:border-top="0.5pt solid #000000" fo:border-bottom="0.5pt solid #000000" style:writing-mode="page"/>
-  </style:style>
-  <style:style style:name="Table5.D1" style:family="table-cell">
-   <style:table-cell-properties style:vertical-align="middle" fo:padding="0cm" fo:border="0.5pt solid #000000" style:writing-mode="page"/>
-  </style:style>
-  <style:style style:name="Table5.A2" style:family="table-cell">
-   <style:table-cell-properties style:vertical-align="middle" fo:padding="0cm" fo:border-left="0.5pt solid #000000" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.5pt solid #000000" style:writing-mode="page"/>
-  </style:style>
-  <style:style style:name="Table5.D2" style:family="table-cell">
    <style:table-cell-properties style:vertical-align="middle" fo:padding="0cm" fo:border-left="0.5pt solid #000000" fo:border-right="0.5pt solid #000000" fo:border-top="none" fo:border-bottom="0.5pt solid #000000" style:writing-mode="page"/>
   </style:style>
   <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Header">
@@ -1327,59 +1327,59 @@
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties style:font-name="Cantarell" fo:font-size="9pt" officeooo:paragraph-rsid="00377543" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
   </style:style>
-  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0024d1ad" officeooo:paragraph-rsid="0024d1ad"/>
-  </style:style>
-  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="0024d1ad"/>
-  </style:style>
-  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="002d5248"/>
-  </style:style>
-  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="002d5248" officeooo:paragraph-rsid="002d5248"/>
-  </style:style>
-  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Subtitle">
-   <style:text-properties officeooo:rsid="002a8836" officeooo:paragraph-rsid="002a8836"/>
-  </style:style>
-  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:paragraph-rsid="002d5248"/>
-  </style:style>
-  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Quotations">
-   <style:text-properties officeooo:rsid="002d5248" officeooo:paragraph-rsid="002d5248"/>
-  </style:style>
-  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:break-before="page"/>
-  </style:style>
-  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="First_20_line_20_indent">
-   <style:text-properties officeooo:rsid="00331a1a" officeooo:paragraph-rsid="00331a1a"/>
-  </style:style>
-  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Footer">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties style:font-name="FreeSans1" fo:font-size="9pt" officeooo:paragraph-rsid="00377543" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
-  </style:style>
-  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Footer">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties style:font-name="Cantarell" fo:font-size="9pt" officeooo:paragraph-rsid="00377543" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
-  </style:style>
-  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Header">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties style:font-name="FreeSans1" fo:font-size="9pt" officeooo:paragraph-rsid="00377543" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
-  </style:style>
-  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Header">
-   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-   <style:text-properties style:font-name="FreeSans1" fo:font-size="9pt" officeooo:paragraph-rsid="00377543" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
-  </style:style>
-  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Header">
-   <style:text-properties style:font-name="FreeSans1" fo:font-size="9pt" officeooo:paragraph-rsid="00377543" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
-  </style:style>
-  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Header">
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Header">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
    <style:text-properties style:font-name="FreeSans1" fo:font-size="12pt" officeooo:paragraph-rsid="00377543" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Header">
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Header">
+   <style:text-properties style:font-name="FreeSans1" fo:font-size="9pt" officeooo:paragraph-rsid="00377543" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Header">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties style:font-name="FreeSans1" fo:font-size="9pt" officeooo:paragraph-rsid="00377543" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Header">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties style:font-name="FreeSans1" fo:font-size="9pt" officeooo:paragraph-rsid="00377543" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Header">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties style:font-name="Cantarell" fo:font-size="9pt" officeooo:paragraph-rsid="00377543" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties style:font-name="FreeSans1" fo:font-size="9pt" officeooo:paragraph-rsid="00377543" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties style:font-name="Cantarell" fo:font-size="9pt" officeooo:paragraph-rsid="00377543" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0024d1ad" officeooo:paragraph-rsid="0024d1ad"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="0024d1ad"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="002d5248"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="002d5248" officeooo:paragraph-rsid="002d5248"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Subtitle">
+   <style:text-properties officeooo:rsid="002a8836" officeooo:paragraph-rsid="002a8836"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:paragraph-rsid="002d5248"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Quotations">
+   <style:text-properties officeooo:rsid="002d5248" officeooo:paragraph-rsid="002d5248"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:break-before="page"/>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="First_20_line_20_indent">
+   <style:text-properties officeooo:rsid="00331a1a" officeooo:paragraph-rsid="00331a1a"/>
   </style:style>
   <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:text-properties officeooo:paragraph-rsid="00377543"/>
@@ -1423,10 +1423,10 @@
     <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
    </style:page-layout-properties>
    <style:header-style>
-    <style:header-footer-properties fo:min-height="0cm" fo:margin-bottom="0.499cm"/>
+    <style:header-footer-properties fo:min-height="0cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-bottom="0.499cm"/>
    </style:header-style>
    <style:footer-style>
-    <style:header-footer-properties fo:min-height="0cm" fo:margin-top="0.499cm"/>
+    <style:header-footer-properties fo:min-height="0cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.499cm"/>
    </style:footer-style>
   </style:page-layout>
   <style:page-layout style:name="pm2">
@@ -1538,7 +1538,7 @@
     <table:table-column table:style-name="Table5.B"/>
     <table:table-column table:style-name="Table5.C"/>
     <table:table-column table:style-name="Table5.D"/>
-    <table:table-row table:style-name="TableLine94279269497856">
+    <table:table-row table:style-name="TableLine94699333740464">
      <table:table-cell table:style-name="Table5.A1" office:value-type="string">
       <text:p text:style-name="GH-Table-Label-Right-Bold">Patient:</text:p>
      </table:table-cell>
@@ -1552,7 +1552,7 @@
       <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;evaluation.patient.name.ref&gt;</text:placeholder></text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94279269497856">
+    <table:table-row table:style-name="TableLine94699333800240">
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
       <text:p text:style-name="GH-Table-Label-Right-Bold">DoB:</text:p>
      </table:table-cell>
@@ -1573,7 +1573,7 @@
       <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;/if&gt;</text:placeholder></text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94279269497856">
+    <table:table-row table:style-name="TableLine94699333802992">
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
       <text:p text:style-name="GH-Table-Label-Right-Bold">Marital Status:</text:p>
      </table:table-cell>
@@ -1600,7 +1600,7 @@
       <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;/if&gt;</text:placeholder></text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94279269497856">
+    <table:table-row table:style-name="TableLine94699333803920">
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
       <text:p text:style-name="GH-Table-Label-Right-Bold">Occupation:</text:p>
      </table:table-cell>
@@ -1616,7 +1616,7 @@
       <text:p text:style-name="Table_20_Contents"/>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94279269497856">
+    <table:table-row table:style-name="TableLine94699333804896">
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
       <text:p text:style-name="GH-Table-Label-Right-Bold">Code:</text:p>
      </table:table-cell>
@@ -1631,7 +1631,7 @@
      </table:table-cell>
     </table:table-row>
     <text:soft-page-break/>
-    <table:table-row table:style-name="TableLine94279269497856">
+    <table:table-row table:style-name="TableLine94699333806096">
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
       <text:p text:style-name="GH-Table-Label-Right-Bold">Initiated by:</text:p>
      </table:table-cell>
@@ -1645,7 +1645,7 @@
       <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;format_date(datetime.date.today(), user.language)&gt;</text:placeholder>, <text:placeholder text:placeholder-type="text">&lt;datetime.datetime.now().strftime(&apos;%H:%M:%S&apos;)&gt;</text:placeholder></text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94279269497856">
+    <table:table-row table:style-name="TableLine94699333807056">
      <table:table-cell table:style-name="Table5.A2" office:value-type="string">
       <text:p text:style-name="GH-Table-Label-Right-Bold">Information Source:</text:p>
      </table:table-cell>
@@ -1664,13 +1664,13 @@
    <table:table table:name="Table1" table:style-name="Table1">
     <table:table-column table:style-name="Table1.A"/>
     <table:table-column table:style-name="Table1.B"/>
-    <table:table-row table:style-name="TableLine94279267749616">
+    <table:table-row table:style-name="TableLine94699333751872">
      <table:table-cell table:style-name="Table1.A1" table:number-columns-spanned="2" office:value-type="string">
       <text:h text:style-name="Heading_20_1" text:outline-level="1">Allergies and other relevant information</text:h>
      </table:table-cell>
      <table:covered-table-cell/>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94279267749616">
+    <table:table-row table:style-name="TableLine94699333819856">
      <table:table-cell table:style-name="Table1.A2" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;for each=&quot;line in (evaluation.patient.critical_summary or &quot;&quot;).split(&apos;\n&apos;)&quot;&gt;</text:placeholder></text:p>
       <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;line&gt;</text:placeholder></text:p>
@@ -1686,12 +1686,12 @@
    <text:p text:style-name="Standard"/>
    <table:table table:name="Table10" table:style-name="Table10">
     <table:table-column table:style-name="Table10.A"/>
-    <table:table-row table:style-name="TableLine94279194038368">
+    <table:table-row table:style-name="TableLine94699333810112">
      <table:table-cell table:style-name="Table10.A1" office:value-type="string">
       <text:h text:style-name="Heading_20_1" text:outline-level="1">Chief Complaint</text:h>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94279194038368">
+    <table:table-row table:style-name="TableLine94699333826656">
      <table:table-cell table:style-name="Table10.A2" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;evaluation.chief_complaint or &quot;&quot;&gt;</text:placeholder></text:p>
      </table:table-cell>
@@ -1700,12 +1700,12 @@
    <text:p text:style-name="Standard"/>
    <table:table table:name="Table9" table:style-name="Table9">
     <table:table-column table:style-name="Table9.A"/>
-    <table:table-row table:style-name="TableLine94279196836704">
+    <table:table-row table:style-name="TableLine94699333823104">
      <table:table-cell table:style-name="Table9.A1" office:value-type="string">
       <text:h text:style-name="Heading_20_1" text:outline-level="1">History of Present Illness</text:h>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94279196836704">
+    <table:table-row table:style-name="TableLine94699333835328">
      <table:table-cell table:style-name="Table9.A2" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;for each=&quot;line in evaluation.present_illness.split(&apos;\n&apos;)&quot;&gt;</text:placeholder></text:p>
       <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;line&gt;</text:placeholder></text:p>
@@ -1716,12 +1716,12 @@
    <text:p text:style-name="Standard"/>
    <table:table table:name="Table8" table:style-name="Table8">
     <table:table-column table:style-name="Table8.A"/>
-    <table:table-row table:style-name="TableLine94279259836832">
+    <table:table-row table:style-name="TableLine94699333829232">
      <table:table-cell table:style-name="Table8.A1" office:value-type="string">
       <text:h text:style-name="Heading_20_1" text:outline-level="1">Clinical and Physical examination</text:h>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94279259836832">
+    <table:table-row table:style-name="TableLine94699333843840">
      <table:table-cell table:style-name="Table8.A2" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;for each=&quot;line in (evaluation.evaluation_summary or &quot;&quot;).split(&apos;\n&apos;)&quot;&gt;</text:placeholder></text:p>
       <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;line&gt;</text:placeholder></text:p>
@@ -1740,7 +1740,7 @@
     <table:table-column table:style-name="Table2.G"/>
     <table:table-header-rows>
      <text:soft-page-break/>
-     <table:table-row table:style-name="TableLine94279255641024">
+     <table:table-row table:style-name="TableLine94699333837712">
       <table:table-cell table:style-name="Table2.A1" office:value-type="string">
        <text:p text:style-name="GH-Table-Heading-Center">Temperature</text:p>
       </table:table-cell>
@@ -1765,7 +1765,7 @@
       </table:table-cell>
      </table:table-row>
     </table:table-header-rows>
-    <table:table-row table:style-name="TableLine94279255645856">
+    <table:table-row table:style-name="TableLine94699333867264">
      <table:table-cell table:style-name="Table2.A2" office:value-type="string">
       <text:p text:style-name="GH-Table-Contents-Center"><text:placeholder text:placeholder-type="text">&lt;evaluation.temperature&gt;</text:placeholder></text:p>
      </table:table-cell>
@@ -1794,21 +1794,21 @@
     <table:table-column table:style-name="Tabella16.A"/>
     <table:table-column table:style-name="Tabella16.B"/>
     <table:table-column table:style-name="Tabella16.C"/>
-    <table:table-row table:style-name="TableLine94279255609360">
+    <table:table-row table:style-name="TableLine94699333846368">
      <table:table-cell table:style-name="Tabella16.A1" table:number-columns-spanned="3" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;if test=&quot;evaluation.signs_and_symptoms&quot;&gt;</text:placeholder></text:p>
      </table:table-cell>
      <table:covered-table-cell/>
      <table:covered-table-cell/>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94279255609360">
+    <table:table-row table:style-name="TableLine94699329981584">
      <table:table-cell table:style-name="Tabella16.A1" table:number-columns-spanned="3" office:value-type="string">
       <text:h text:style-name="Heading_20_1" text:outline-level="1">Signs and Symptoms</text:h>
      </table:table-cell>
      <table:covered-table-cell/>
      <table:covered-table-cell/>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94279255609360">
+    <table:table-row table:style-name="TableLine94699329981904">
      <table:table-cell table:style-name="Tabella16.A3" office:value-type="string">
       <text:p text:style-name="Table_20_Heading">Type</text:p>
      </table:table-cell>
@@ -1819,7 +1819,7 @@
       <text:p text:style-name="Table_20_Heading">Comments</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94279255609360">
+    <table:table-row table:style-name="TableLine94699329983696">
      <table:table-cell table:style-name="Tabella16.A4" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;for each=&quot;clinical in evaluation.signs_and_symptoms&quot;&gt;</text:placeholder></text:p>
      </table:table-cell>
@@ -1830,9 +1830,9 @@
       <text:p text:style-name="Table_20_Contents"/>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94279255609360">
+    <table:table-row table:style-name="TableLine94699329986048">
      <table:table-cell table:style-name="Tabella16.A3" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;clinical.sign_or_symptom_str&gt;</text:placeholder></text:p>
+      <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;clinical.sign_or_symptom&gt;</text:placeholder></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabella16.A3" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;clinical.clinical.name&gt;</text:placeholder></text:p>
@@ -1841,7 +1841,7 @@
       <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;clinical.comments&gt;</text:placeholder></text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94279255609360">
+    <table:table-row table:style-name="TableLine94699329986944">
      <table:table-cell table:style-name="Tabella16.A4" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;/for&gt;</text:placeholder></text:p>
      </table:table-cell>
@@ -1852,7 +1852,7 @@
       <text:p text:style-name="Table_20_Contents"/>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94279255609360">
+    <table:table-row table:style-name="TableLine94699329987872">
      <table:table-cell table:style-name="Tabella16.A4" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;/if&gt;</text:placeholder></text:p>
      </table:table-cell>
@@ -1926,23 +1926,22 @@
    <text:p text:style-name="Preformatted_20_Text"/>
    <table:table table:name="Table11" table:style-name="Table11">
     <table:table-column table:style-name="Table11.A"/>
-    <table:table-row table:style-name="TableLine94279260058688">
+    <table:table-row table:style-name="TableLine94699329991232">
      <table:table-cell table:style-name="Table11.A1" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;if test=&quot;evaluation.diagnosis&quot;&gt;</text:placeholder></text:p>
      </table:table-cell>
     </table:table-row>
-    <text:soft-page-break/>
-    <table:table-row table:style-name="TableLine94279260058688">
+    <table:table-row table:style-name="TableLine94699330019728">
      <table:table-cell table:style-name="Table11.A1" office:value-type="string">
-      <text:h text:style-name="Heading_20_1" text:outline-level="1">Main Condition</text:h>
+      <text:h text:style-name="Heading_20_1" text:outline-level="1">Main Condition<text:soft-page-break/></text:h>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94279260058688">
+    <table:table-row table:style-name="TableLine94699330020000">
      <table:table-cell table:style-name="Table11.A3" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;evaluation.diagnosis.rec_name&gt;</text:placeholder></text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94279260058688">
+    <table:table-row table:style-name="TableLine94699330020672">
      <table:table-cell table:style-name="Table11.A4" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;/if&gt;</text:placeholder></text:p>
      </table:table-cell>
@@ -1951,32 +1950,32 @@
    <text:p text:style-name="Standard"/>
    <table:table table:name="Table4" table:style-name="Table4">
     <table:table-column table:style-name="Table4.A"/>
-    <table:table-row table:style-name="TableLine94279255742192">
+    <table:table-row table:style-name="TableLine94699330014400">
      <table:table-cell table:style-name="Table4.A1" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;if test=&quot;evaluation.secondary_conditions&quot;&gt;</text:placeholder></text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94279255742192">
+    <table:table-row table:style-name="TableLine94699330033808">
      <table:table-cell table:style-name="Table4.A1" office:value-type="string">
       <text:h text:style-name="Heading_20_1" text:outline-level="1">Other Conditions</text:h>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94279255742192">
+    <table:table-row table:style-name="TableLine94699330034128">
      <table:table-cell table:style-name="Table4.A3" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;for each=&quot;condition in evaluation.secondary_conditions&quot;&gt;</text:placeholder></text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94279255742192">
+    <table:table-row table:style-name="TableLine94699330034992">
      <table:table-cell table:style-name="Table4.A3" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;condition.pathology.rec_name&gt;</text:placeholder></text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94279255742192">
+    <table:table-row table:style-name="TableLine94699330035584">
      <table:table-cell table:style-name="Table4.A5" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;/for&gt;</text:placeholder></text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94279255742192">
+    <table:table-row table:style-name="TableLine94699330036656">
      <table:table-cell table:style-name="Table4.A5" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;/if&gt;</text:placeholder></text:p>
      </table:table-cell>
@@ -1985,32 +1984,32 @@
    <text:p text:style-name="Standard"/>
    <table:table table:name="Table6" table:style-name="Table6">
     <table:table-column table:style-name="Table6.A"/>
-    <table:table-row table:style-name="TableLine94279255762032">
+    <table:table-row table:style-name="TableLine94699330023648">
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;if test=&quot;evaluation.diagnostic_hypothesis&quot;&gt;</text:placeholder></text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94279255762032">
+    <table:table-row table:style-name="TableLine94699330049200">
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
       <text:h text:style-name="Heading_20_1" text:outline-level="1">Differential Diagnoses</text:h>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94279255762032">
+    <table:table-row table:style-name="TableLine94699330049520">
      <table:table-cell table:style-name="Table6.A3" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;for each=&quot;ddx in evaluation.diagnostic_hypothesis&quot;&gt;</text:placeholder></text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94279255762032">
+    <table:table-row table:style-name="TableLine94699330050256">
      <table:table-cell table:style-name="Table6.A3" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;ddx.pathology.rec_name&gt;</text:placeholder></text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94279255762032">
+    <table:table-row table:style-name="TableLine94699330050848">
      <table:table-cell table:style-name="Table6.A5" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;/for&gt;</text:placeholder></text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94279255762032">
+    <table:table-row table:style-name="TableLine94699330051920">
      <table:table-cell table:style-name="Table6.A5" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;/if&gt;</text:placeholder></text:p>
      </table:table-cell>
@@ -2019,12 +2018,12 @@
    <text:p text:style-name="Standard"/>
    <table:table table:name="Tabella20" table:style-name="Tabella20">
     <table:table-column table:style-name="Tabella20.A"/>
-    <table:table-row table:style-name="TableLine94279255782064">
+    <table:table-row table:style-name="TableLine94699330039168">
      <table:table-cell table:style-name="Tabella20.A1" office:value-type="string">
       <text:h text:style-name="Heading_20_1" text:outline-level="1">Treatment Plan</text:h>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94279255782064">
+    <table:table-row table:style-name="TableLine94699330060320">
      <table:table-cell table:style-name="Tabella20.A2" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;for each=&quot; line in (evaluation.directions or &apos;&apos;).split(&apos;\n&apos;)&quot;&gt;</text:placeholder></text:p>
       <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;line&gt;</text:placeholder></text:p>
@@ -2032,16 +2031,15 @@
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"><text:soft-page-break/></text:p>
    <table:table table:name="Table12" table:style-name="Table12">
     <table:table-column table:style-name="Table12.A"/>
-    <text:soft-page-break/>
-    <table:table-row table:style-name="TableLine94279264391824">
+    <table:table-row table:style-name="TableLine94699330054576">
      <table:table-cell table:style-name="Table12.A1" office:value-type="string">
       <text:h text:style-name="Heading_20_1" text:outline-level="1">Discharge Reason</text:h>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94279264391824">
+    <table:table-row table:style-name="TableLine94699330066752">
      <table:table-cell table:style-name="Table12.A2" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;evaluation.discharge_reason_str&gt;</text:placeholder></text:p>
      </table:table-cell>
@@ -2050,32 +2048,32 @@
    <text:p text:style-name="Standard"/>
    <table:table table:name="Table13" table:style-name="Table13">
     <table:table-column table:style-name="Table13.A"/>
-    <table:table-row table:style-name="TableLine94279260497664">
+    <table:table-row table:style-name="TableLine94699330062896">
      <table:table-cell table:style-name="Table13.A1" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;if test=&quot;evaluation.digital_signature&quot;&gt;</text:placeholder></text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94279260497664">
+    <table:table-row table:style-name="TableLine94699330079200">
      <table:table-cell table:style-name="Table13.A1" office:value-type="string">
       <text:h text:style-name="Heading_20_1" text:outline-level="1">Evaluation Digital Signature</text:h>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94279260497664">
+    <table:table-row table:style-name="TableLine94699330079520">
      <table:table-cell table:style-name="Table13.A3" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;for each=&quot; line in (evaluation.digital_signature or &apos;&apos;).split(&apos;\n&apos;)&quot;&gt;</text:placeholder></text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94279260497664">
+    <table:table-row table:style-name="TableLine94699330080384">
      <table:table-cell table:style-name="Table13.A3" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;line&gt;</text:placeholder></text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94279260497664">
+    <table:table-row table:style-name="TableLine94699330080976">
      <table:table-cell table:style-name="Table13.A5" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;/for&gt;</text:placeholder></text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94279260497664">
+    <table:table-row table:style-name="TableLine94699330082048">
      <table:table-cell table:style-name="Table13.A5" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"><text:placeholder text:placeholder-type="text">&lt;/if&gt;</text:placeholder></text:p>
      </table:table-cell>
