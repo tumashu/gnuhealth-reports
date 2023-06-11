@@ -4,7 +4,7 @@
  <office:meta><meta:creation-date>2023-06-05T22:10:09.100073222</meta:creation-date><meta:editing-duration>P0D</meta:editing-duration><meta:editing-cycles>1</meta:editing-cycles><meta:generator>LibreOffice/7.0.4.2$Linux_X86_64 LibreOffice_project/00$Build-2</meta:generator><meta:document-statistic meta:table-count="8" meta:image-count="0" meta:object-count="0" meta:page-count="3" meta:paragraph-count="118" meta:word-count="226" meta:character-count="2635" meta:non-whitespace-character-count="2523"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">42333</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">40245</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">23629</config:config-item>
@@ -16,9 +16,9 @@
      <config:config-item config:name="ViewLeft" config:type="long">11622</config:config-item>
      <config:config-item config:name="ViewTop" config:type="long">2501</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">42333</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">40243</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">23627</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">65961</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -1128,18 +1128,18 @@
    <style:table-cell-properties fo:padding="0.049cm" fo:border-left="0.5pt solid #000000" fo:border-right="0.5pt solid #000000" fo:border-top="none" fo:border-bottom="0.5pt solid #000000" style:writing-mode="page"/>
   </style:style>
   <style:style style:name="Table1" style:family="table">
-   <style:table-properties style:width="10.608cm" table:align="margins" fo:background-color="transparent">
+   <style:table-properties style:width="10.61cm" fo:margin-left="0cm" table:align="left" fo:background-color="transparent">
     <style:background-image/>
    </style:table-properties>
   </style:style>
   <style:style style:name="Table1.A" style:family="table-column">
-   <style:table-column-properties style:column-width="5.009cm" style:rel-column-width="30949*"/>
+   <style:table-column-properties style:column-width="5.009cm"/>
   </style:style>
   <style:style style:name="Table1.B" style:family="table-column">
-   <style:table-column-properties style:column-width="2.062cm" style:rel-column-width="12740*"/>
+   <style:table-column-properties style:column-width="2.478cm"/>
   </style:style>
   <style:style style:name="Table1.C" style:family="table-column">
-   <style:table-column-properties style:column-width="3.537cm" style:rel-column-width="21846*"/>
+   <style:table-column-properties style:column-width="3.122cm"/>
   </style:style>
   <style:style style:name="Table1.1" style:family="table-row">
    <style:table-row-properties fo:background-color="transparent">
@@ -1261,18 +1261,18 @@
    <style:table-cell-properties fo:padding="0.049cm" fo:border-left="0.5pt solid #000000" fo:border-right="0.5pt solid #000000" fo:border-top="none" fo:border-bottom="0.5pt solid #000000" style:writing-mode="page"/>
   </style:style>
   <style:style style:name="Table1" style:family="table">
-   <style:table-properties style:width="10.608cm" table:align="margins" fo:background-color="transparent">
+   <style:table-properties style:width="10.61cm" fo:margin-left="0cm" table:align="left" fo:background-color="transparent">
     <style:background-image/>
    </style:table-properties>
   </style:style>
   <style:style style:name="Table1.A" style:family="table-column">
-   <style:table-column-properties style:column-width="5.009cm" style:rel-column-width="30949*"/>
+   <style:table-column-properties style:column-width="5.009cm"/>
   </style:style>
   <style:style style:name="Table1.B" style:family="table-column">
-   <style:table-column-properties style:column-width="2.062cm" style:rel-column-width="12740*"/>
+   <style:table-column-properties style:column-width="2.478cm"/>
   </style:style>
   <style:style style:name="Table1.C" style:family="table-column">
-   <style:table-column-properties style:column-width="3.537cm" style:rel-column-width="21846*"/>
+   <style:table-column-properties style:column-width="3.122cm"/>
   </style:style>
   <style:style style:name="Table1.1" style:family="table-row">
    <style:table-row-properties fo:background-color="transparent">
